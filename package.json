@@ -1,0 +1,20 @@
+{
+  "name": "cracking-maang",
+  "version": "1.0.0",
+  "description": "This is My Leetcode Solutions",
+  "main": "train.ts",
+  "scripts": {
+    "train": "nodemon --exec ts-node src/train.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BahodirL7/cracking-maang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BahodirL7/cracking-maang/issues"
+  },
+  "homepage": "https://github.com/BahodirL7/cracking-maang#readme"
+}
